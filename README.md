@@ -23,7 +23,7 @@ https://train.usaco.org/usacotext2?a=j3y9xVjsttL&S=flood
 
 
 ### UCS
-![graph](./ucs.png)
+![graph](./UCS.png)
 
 
 ### Greedy Search
