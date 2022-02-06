@@ -20,3 +20,14 @@ https://train.usaco.org/usacotext2?a=j3y9xVjsttL&S=graph
 https://train.usaco.org/usacotext2?a=j3y9xVjsttL&S=flood
 
     [0, 1, 2, 3, 1, 2, 2, 2, 1, 2]  # [0] is dummy
+
+
+### UCS
+![graph](./ucs.png)
+
+
+### Greedy Search
+![graph](./Greedy.png)
+
+### A* Search
+![graph](./Astar.png)
